@@ -1,6 +1,6 @@
-1d313555739a8f521404641c114da4a4 *DESCRIPTION
+0ab14ea34ff2f465b7ca7e5b2a78ade7 *DESCRIPTION
 30ee6a0ec80a4478a803da0e3a335b82 *NAMESPACE
-eb738a5a7de617dff45fe35dfc1cf350 *NEWS.md
+85a299d459a1bb49610fa9d32b6e9d1c *NEWS.md
 f76b35b1eb6fbe0ace5cbc071f2d194d *R/continuous_inpatient_spells.R
 f64817b2403f8d8e231c1781f1c5c0b4 *R/csv_from_zip.R
 b7b22a38d931eb1e52618e11a6c650b6 *R/data.R
@@ -11,13 +11,13 @@ b842da4b1752898b8ee2f7a12aa1d3da *R/inpatient_codes.R
 0c3d9e7f6a8b8e35dfa57921ac27b634 *R/lookup_recode.R
 c53a0d29aab99f96d883b7f4d1bc1a66 *R/patient_id.R
 690a0c5181dc764dde82971e9b500a18 *R/proxy_episode_dates.R
-760f02d65a6f10645c4b650e23181aaa *R/respeciate_generic.R
+a7d70bf0d943f42d5d5cdbb7fbeaa0b1 *R/respeciate_generic.R
 ac271214e18e651f7f70fb084abde65c *R/sql_clean.R
-a7f5e767821bdb0f92bee950eeedc7e0 *R/sql_connect.R
+b9e03461f6dcdd8972a64b3b36105c93 *R/sql_connect.R
 a4f132162104aef03c82ebbdafba279b *R/sql_readwrite.R
 7b78b2d05d389583c04e3a483031504b *R/utils-data-table.R
 c07759ceab387540d85895801d5d1d35 *R/valid_nhs.R
-4811112b4128cbafa55b6169144d44db *README.md
+9542d8163e79b73c6786108bd5861d6d *README.md
 8aefd8b8faca0a1eba0e039f4d50b294 *data/genus_gram_stain.rda
 f4ad643b2dd89bfdb6432005e3ef852b *data/respeciate_organism.rda
 be585311a487debcf5f8ae4b329e50f0 *data/specimen_type_grouping.rda
